@@ -1,0 +1,16 @@
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\UnityDemo.exe.config
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\UnityDemo.exe
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\UnityDemo.pdb
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\obj\Debug\UnityDemo.csprojResolveAssemblyReference.cache
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\obj\Debug\UnityDemo.exe
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\obj\Debug\UnityDemo.pdb
+c:\users\rl1h\documents\visual studio 2012\Projects\IocDemo\UnityDemo\bin\Debug\Unity.config
